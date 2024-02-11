@@ -30,7 +30,7 @@ I'm Peter aka Fantom, a 21 year old software engineering undergraduate student a
 
 - :telescope: I currently contribute to the frontend aspect of web applications.
 
-- :seedling: I dabble a little in Technical Writing.
+- :seedling: I dabble a little in Technical Writing.[![Hashnode Badge](https://img.shields.io/badge/Hashnode-blue?style=flat&logo=Hashnode&logoColor=white)](https://fantom0.hashnode.dev/)
 
 - :zap: In my free time, I read tech articles and spend time on tech youtube (Theo, Prime and Fireship...).
 
