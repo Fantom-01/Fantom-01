@@ -26,7 +26,7 @@
 
 ### :man_technologist: Who am I? :
 
-I'm Peter aka Fantom, a 21 year old software engineering undergraduate student and a front-end web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Peter aka Fantom, a 22 year old software engineering undergraduate student and a front-end web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I currently contribute to the frontend aspect of web applications.
 
