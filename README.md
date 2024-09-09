@@ -26,13 +26,13 @@
 
 ### :man_technologist: Who am I? :
 
-I'm Peter aka Fantom, a 22 year old software engineering undergraduate student and a front-end web developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Peter aka Fantom, a 22-year-old software engineering undergraduate student and a developer. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - :telescope: I currently contribute to the frontend aspect of web applications.
 
 - :seedling: I also dabble a little in Technical Writing.[![Hashnode Badge](https://img.shields.io/badge/Hashnode-blue?style=flat&logo=Hashnode&logoColor=white)](https://fantom0.hashnode.dev/)
 
-- :zap: In my free time, I read tech articles and spend time on tech youtube (Theo, Prime and Fireship...).
+- :zap: In my free time, I read tech articles and spend time on tech youtube (Theo, Prime, and Fireship...).
 
 - :mailbox:How to reach me: [![Mail Badge](https://img.shields.io/badge/Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:fantom.7th@gmail.com)
 
